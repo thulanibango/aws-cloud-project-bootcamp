@@ -25,7 +25,7 @@ Since I have a few credits i set my budget spend to $10 so i can be able to test
 
  ### Recreate the conceptual design
 
-![Proof of conceptual design](../images/Conceptual.png)
+![Proof of conceptual design](images/Conceptual.png)
 
  ### Creating the Logical design
  ![Proof of logical design].(images/logical.png)

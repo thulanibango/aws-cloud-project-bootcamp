@@ -13,7 +13,7 @@
  ```
 
  I then configured credintials I received from the console which my access key and key id using the follwoing cmds (Please refer to proof of aws cli)
- ![Proof of configuration of aws cli].(images/proof-of-aws-cli.png)
+ ![Proof of configuration of aws cli.].(images/proof-of-aws-cli.png)
  ```
  aws configure
  ```
